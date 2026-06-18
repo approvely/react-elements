@@ -1,0 +1,16 @@
+name: react-elements
+id: ari:cloud:compass:9aaad466-dd60-4c51-b90e-3808e9d24cc9:component/3ef21e65-2f5f-427b-b76f-f85cb839ded3/44e1adce-a951-4e84-b38f-a0c2d3fc09da
+description: Basis theory forked react-elements
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/approvely/react-elements
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
